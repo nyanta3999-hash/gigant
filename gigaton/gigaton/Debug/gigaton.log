@@ -1,0 +1,5 @@
+﻿  Gauge.cpp
+C:\Users\koma2\Desktop\c言語\gigaton\gigaton\Gauge.cpp(1,10): fatal error C1083: include ファイルを開けません。'DxLib.h':No such file or directory
+  main.cpp
+C:\Users\koma2\Desktop\c言語\gigaton\gigaton\main.cpp(1,10): fatal error C1083: include ファイルを開けません。'DxLib.h':No such file or directory
+  コードを生成中...
